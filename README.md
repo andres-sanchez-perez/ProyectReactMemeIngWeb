@@ -1,4 +1,4 @@
-#Explicación del proyecto
+# Explicación del proyecto
 
 
 Este proyecto es un generador de memes donde cliqueas una plantilla y escribes dos frases para el meme, para al final generar el meme con lo que escribiste

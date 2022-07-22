@@ -1,3 +1,15 @@
+#Explicación del proyecto
+
+
+Este proyecto es un generador de memes donde cliqueas una plantilla y escribes dos frases para el meme, para al final generar el meme con lo que escribiste
+
+Este proyecto es un generador de memes donde cliqueas una plantilla y escribes dos frases para el meme, para al final generar el meme con lo que escribiste
+
+Link del proyecto deployado en Heroku: https://memegeneratorreact.herokuapp.com/
+
+Link tutorial base: https://www.youtube.com/watch?v=rtQKP1we-Dk
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
